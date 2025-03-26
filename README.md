@@ -1,6 +1,6 @@
 **Sales Performance & Market Trends Dashboard**
 
-**Tools Used:** Power BI, SQL, Power Query, DAX
+**Tools Used:** Power BI, Power Query, DAX
 
 **Overview**
 This interactive Power BI dashboard provides a comprehensive analysis of sales performance and market trends. It enables data-driven decision-making by visualizing key metrics such as monthly revenue, product performance, customer demographics, and regional sales trends.
