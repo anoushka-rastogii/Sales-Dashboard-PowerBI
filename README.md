@@ -1,4 +1,4 @@
-** Sales Performance & Market Trends Dashboard**
+**Sales Performance & Market Trends Dashboard**
 
 **Tools Used:** Power BI, SQL, Power Query, DAX
 
